@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+margin: 0;
+}
+
+.top-d{
+    background: rgb(33,37,41);
+    
+    
+}
+.main-img{
+    width: 100%;
+    
+    box-shadow: rgba(88, 88, 190, 0.425) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+   
+    /* border-radius: 5%; */
+    
+}
+.name-text{
+    font-family: 'Bungee', cursive;
+    font-size: 75px;
+    color: rgb(175, 175, 255);
+}
+.small-text{
+    color:rgba(190, 190, 250, 0.516) ;
+}
+.des-tag{
+    border-top:2px solid rgb(175, 175, 255);
+    font-family: 'Bungee', cursive;
+
+}

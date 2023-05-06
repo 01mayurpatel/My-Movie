@@ -1,0 +1,19 @@
+.border-box{
+    border-bottom:dashed 2px rgba(141, 139, 139, 0.37);
+}
+.whole-c{
+    cursor: pointer;
+    border: none;
+    padding: 15px;
+  
+    box-shadow: rgba(113, 113, 248, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+
+}
+.whole-c:hover{
+    transform: scale(1.04);
+}
+.card-body{
+    background: rgba(28, 30, 33, 0.452);
+    color: white;
+ 
+}
